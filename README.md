@@ -1,0 +1,4 @@
+nx-carousel
+===========
+
+AngularJS Carousel
